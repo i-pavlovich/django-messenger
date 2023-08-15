@@ -1,0 +1,8 @@
+# Python
+env
+.env
+__pycache__
+media
+
+# IDE
+.vscode
